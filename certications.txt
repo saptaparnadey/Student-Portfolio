@@ -1,0 +1,5 @@
+my certifications
+
+1. python programming
+2. microsoft azure fundamentals
+3. git and github
